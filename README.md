@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vandana122002/Leetcode/tree/master/0037-sudoku-solver) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vandana122002/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vandana122002/Leetcode/tree/master/0037-sudoku-solver) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vandana122002/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vandana122002/Leetcode/tree/master/0037-sudoku-solver) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vandana122002/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
