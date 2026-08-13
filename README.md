@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vandana122002/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vandana122002/Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vandana122002/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
