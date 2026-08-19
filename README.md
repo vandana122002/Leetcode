@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vandana122002/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vandana122002/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/vandana122002/Leetcode/tree/master/0054-spiral-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vandana122002/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vandana122002/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vandana122002/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vandana122002/Leetcode/tree/master/0041-first-missing-positive) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vandana122002/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vandana122002/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vandana122002/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
