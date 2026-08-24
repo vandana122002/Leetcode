@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vandana122002/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1927-sum-game](https://github.com/vandana122002/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vandana122002/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/vandana122002/Leetcode/tree/master/1927-sum-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vandana122002/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
