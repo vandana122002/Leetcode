@@ -12,10 +12,7 @@ class Solution {
             return nums[0];
         }
 
-        // Case 1: Don't rob first house
         int case1 = robLinear(nums, 1, n - 1);
-
-        // Case 2: Don't rob last house
         int case2 = robLinear(nums, 0, n - 2);
 
         return Math.max(case1, case2);
