@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vandana122002/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vandana122002/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vandana122002/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3028-ant-on-the-boundary](https://github.com/vandana122002/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vandana122002/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vandana122002/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vandana122002/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vandana122002/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vandana122002/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [3028-ant-on-the-boundary](https://github.com/vandana122002/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vandana122002/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vandana122002/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/vandana122002/Leetcode/tree/master/0213-house-robber-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/vandana122002/Leetcode/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
