@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/vandana122002/Leetcode/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/vandana122002/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vandana122002/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vandana122002/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vandana122002/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vandana122002/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/vandana122002/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vandana122002/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/vandana122002/Leetcode/tree/master/1927-sum-game) |
 | [3024-type-of-triangle](https://github.com/vandana122002/Leetcode/tree/master/3024-type-of-triangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vandana122002/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vandana122002/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/vandana122002/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
