@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/vandana122002/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vandana122002/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1927-sum-game](https://github.com/vandana122002/Leetcode/tree/master/1927-sum-game) |
 | [3024-type-of-triangle](https://github.com/vandana122002/Leetcode/tree/master/3024-type-of-triangle) |
 | [3492-maximum-containers-on-a-ship](https://github.com/vandana122002/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
