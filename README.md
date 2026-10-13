@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vandana122002/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/vandana122002/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vandana122002/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vandana122002/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vandana122002/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vandana122002/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vandana122002/Leetcode/tree/master/0198-house-robber) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vandana122002/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vandana122002/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
