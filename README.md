@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/vandana122002/Leetcode/tree/master/0832-flipping-an-image) |
+| [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vandana122002/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vandana122002/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vandana122002/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vandana122002/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0832-flipping-an-image](https://github.com/vandana122002/Leetcode/tree/master/0832-flipping-an-image) |
+| [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vandana122002/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Algorithm X
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vandana122002/Leetcode/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/vandana122002/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Prefix Sum
 |  |
