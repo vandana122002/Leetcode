@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vandana122002/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/vandana122002/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vandana122002/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vandana122002/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vandana122002/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vandana122002/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -181,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 ## Geometry
 |  |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
