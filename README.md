@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/vandana122002/Leetcode/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vandana122002/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vandana122002/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/vandana122002/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vandana122002/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1463-cherry-pickup-ii](https://github.com/vandana122002/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/vandana122002/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Prefix Sum
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -225,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
