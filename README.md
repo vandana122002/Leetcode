@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vandana122002/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/vandana122002/Leetcode/tree/master/0179-largest-number) |
+| [1143-longest-common-subsequence](https://github.com/vandana122002/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vandana122002/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vandana122002/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vandana122002/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/vandana122002/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/vandana122002/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/vandana122002/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Prefix Sum
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vandana122002/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
