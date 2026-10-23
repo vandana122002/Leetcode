@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vandana122002/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/vandana122002/Leetcode/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vandana122002/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vandana122002/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/vandana122002/Leetcode/tree/master/0179-largest-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vandana122002/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1927-sum-game](https://github.com/vandana122002/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vandana122002/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/vandana122002/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vandana122002/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vandana122002/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
