@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vandana122002/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/vandana122002/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vandana122002/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/vandana122002/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vandana122002/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vandana122002/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/vandana122002/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vandana122002/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/vandana122002/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/vandana122002/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Algorithm X
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vandana122002/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/vandana122002/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/vandana122002/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [3665-twisted-mirror-path-count](https://github.com/vandana122002/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Prefix Sum
 |  |
 | ------- |
