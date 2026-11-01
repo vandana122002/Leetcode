@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vandana122002/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vandana122002/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vandana122002/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vandana122002/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0518-coin-change-ii](https://github.com/vandana122002/Leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vandana122002/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vandana122002/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vandana122002/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/vandana122002/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vandana122002/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/vandana122002/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
