@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vandana122002/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandana122002/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/vandana122002/Leetcode/tree/master/0832-flipping-an-image) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-minimum-falling-path-sum](https://github.com/vandana122002/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vandana122002/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1049-last-stone-weight-ii](https://github.com/vandana122002/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vandana122002/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vandana122002/Leetcode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vandana122002/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vandana122002/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vandana122002/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/vandana122002/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vandana122002/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vandana122002/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vandana122002/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
